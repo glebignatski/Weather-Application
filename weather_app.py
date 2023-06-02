@@ -19,7 +19,7 @@ root.geometry("800x800")
 root.title("Weather Application")
 
 # ------------------------Personal API key------------------------
-api_key = "74be8e0d070ac64a85445526af9e1116" 
+api_key = "" # enter your API key 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 while True:
