@@ -18,7 +18,7 @@ root = Tk()
 root.geometry("800x800")
 root.title("Weather Application")
 
-# ------------------------Personal API key------------------------
+# ------------------------Personal API key and Base URL for OpenWeatherMap Server------------------------
 api_key = "" # enter your API key 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
